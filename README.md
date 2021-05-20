@@ -6,7 +6,7 @@ It can be noticed that when you open the main file (MOSAIC_try.ipnyb file) it se
 fine and it works ..
 
 # THE DATASET:
-I used the dataset provided by Kaggle whose link is: https://www.kaggle.com/jhashanku007/devnagri-hindi-dataset
+I used the dataset provided by Kaggle whose link is: https://www.kaggle.com/jhashanku007/devnagri-hindi-dataset        
 But feel free to use your dataset...
 
 # HOW TO RUN ON YOUR TRAINING AND TEST SET:
