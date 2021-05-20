@@ -5,6 +5,9 @@ This is the code of Handwritten Hindi Recognition system using Deep Learning and
 It can be noticed that when you open the main file (MOSAIC_try.ipnyb file) it seems there is an error in the code but don't worry about it the code is
 fine and it works ..
 
+# THE DATASET:
+I used the dataset provided by Kaggle whose link is: https://www.kaggle.com/jhashanku007/devnagri-hindi-dataset
+But feel free to use your dataset...
 
 # HOW TO RUN ON YOUR TRAINING AND TEST SET:
 Well, in the code it has provided the option to give the location of folder of your test and training set. By provivng the correct directory it will work..
