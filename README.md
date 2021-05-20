@@ -19,3 +19,11 @@ But the important point is if you have to make it predict on your customise lett
 # THE IMAGE AUGMENTATION PART ..
 The image augmentataion of the image worked fine for me under the mentioned arguments values but it may be different for you..So, feel
 free to do some experiment.
+
+# THE IMAGE PREPROCESSING PART:
+I am adding here the reference for the image preprocessing part. The main notion of this project to create an univerasal recognition system which works for all types of 
+Devnagri Letter.
+It was actually desingned for Devnagri work recognition but it didn't worked. SO, TAKE IT AS A SURCE OF REFERENCE 
+ONLY OR AS A BASE WORK..
+
+ANY MODIFIACTION IN THIS PART IS HIGHLY WELCOMED !!
