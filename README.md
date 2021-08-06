@@ -6,7 +6,7 @@ It can be noticed that when you open the main file (MOSAIC_try.ipnyb file) it se
 fine and it works ..
 
 # THE DATASET:
-I used the dataset provided by Kaggle whose link is: https://www.kaggle.com/jhashanku007/devnagri-hindi-dataset      
+I used the dataset provided by Kaggle whose link is: <a href = "https://www.kaggle.com/jhashanku007/devnagri-hindi-dataset">Dataset</a>     
 Some reference image are added here.. And also some of the other image which it predicted correctly.
 But feel free to use your dataset...
 
@@ -25,5 +25,15 @@ free to do some experiment.
 I am adding here the reference for the image preprocessing part. The main notion of this project to create an univerasal recognition system which works for all types of 
 Devnagri Letter.
 
-# HERE ARE SOME PLTS TO SHOW THE ACCURACY INCURRED :
+# HERE ARE SOME PLOTS TO SHOW THE ACCURACY ACHIEVED :
+
+<img src = "https://github.com/AYUSH-ISHAN/Devnagri-Letter-and-Digit-Recognition/blob/main/graph2.png"/> <img src = "https://github.com/AYUSH-ISHAN/Devnagri-Letter-and-Digit-Recognition/blob/main/train_graph.png"/>
+
+# NOW, THE FINAL DATABASE TO SHOW THE EXACT ACCURACY AND LOSS:
+
+<img src = "https://github.com/AYUSH-ISHAN/Devnagri-Letter-and-Digit-Recognition/blob/main/IMG_20210806_160028.png"/>
+
+The final Accuracy was <B>98.18 %</B> on Training Set and <B>98.42 %</B> on Validation Set.
+
+
 ANY MODIFIACTION IN THIS PART IS HIGHLY WELCOMED !!
