@@ -34,6 +34,3 @@ Devnagri Letter.
 <img src = "https://github.com/AYUSH-ISHAN/Devnagri-Letter-and-Digit-Recognition/blob/main/IMG_20210806_160028.png"/>
 
 The final Accuracy was <B>98.18 %</B> on Training Set and <B>98.42 %</B> on Validation Set.
-
-
-ANY MODIFIACTION IN THIS PART IS HIGHLY WELCOMED !!
